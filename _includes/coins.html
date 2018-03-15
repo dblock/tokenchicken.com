@@ -1,0 +1,32 @@
+<section id="coins">
+  <div>
+    <div class="container">
+      <div class="row">
+        {% for coin in site.coins %}
+        <div class="coin col-sm-3">
+          <div class="coin-title">
+            {{ coin.title }}
+          </div>
+          <div class="coin-image">
+            <img src='img/coins/{{ coin.img }}'>
+          </div>
+          <div class='coin-address'>
+            {{ coin.address }}
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+      <div class="row">
+        <div class="coin col-sm-12">
+          <div class="coin-instructions">
+            * we will sell your coins and send a lucky few a bona fide chicken.
+            <br><br>
+            The rest will be donated in support of the <a href='https://www.runwithtfk.org/Profile/PublicPage/61018' target="_blank">New York City TCS Marathon 2018 TeamForKids charity</a>.
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- /.container -->
+  </div>
+</section>
+<!-- /.banner -->

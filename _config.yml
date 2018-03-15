@@ -1,0 +1,48 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://tokenchicken.com
+title: Token Chicken
+email: dblock+tokenchicken@dblock.org
+author: Daniel Doubrovkine
+description: Send us some coin and we'll send you a chicken.
+copyright: 'Copyright &copy; 2018 <a href="https://twitter.com/dblockdotorg">@dblockdotorg</a>. All Rights Reserved.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    type: twitter
+    url: https://twitter.com/dblockdotorg
+  - title: github
+    type: github
+    url: https://github.com/dblock/tokenchicken.com
+  - title: wtfpl
+    type: file-text
+    url: http://www.wtfpl.net
+
+coins:
+  - title: Bitcoin
+    img: bitcoin.jpg
+    address: 1EoE8DnAogFxPCD8JHtCAcngEj99RM4C26
+  - title: Bitcoin Cash
+    img: cash.jpg
+    address: qz8pazn7lrzgm63a5qlj4d3nzy0cp6d49qcaxhctwu
+  - title: ETH
+    img: etherium.jpg
+    address: 0x22039770A8e6C7fAc442f6dfC8800bc433c015da
+  - title: LTC
+    img: litecoin.jpg
+    address: MHEj9d9Vt2WKZmdddfv3kLX1UZRehpSu4F
+
