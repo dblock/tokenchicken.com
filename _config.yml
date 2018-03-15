@@ -35,14 +35,14 @@ social:
 coins:
   - title: Bitcoin
     img: bitcoin.jpg
-    address: 1EoE8DnAogFxPCD8JHtCAcngEj99RM4C26
+    address: '1EoE8DnAogFxPCD8JHtCAcngEj99RM4C26'
   - title: Bitcoin Cash
     img: cash.jpg
-    address: qz8pazn7lrzgm63a5qlj4d3nzy0cp6d49qcaxhctwu
+    address: 'qz8pazn7lrzgm63a5qlj4d3nzy0cp6d49qcaxhctwu'
   - title: ETH
     img: etherium.jpg
-    address: 0x22039770A8e6C7fAc442f6dfC8800bc433c015da
+    address: '0x22039770A8e6C7fAc442f6dfC8800bc433c015da'
   - title: LTC
     img: litecoin.jpg
-    address: MHEj9d9Vt2WKZmdddfv3kLX1UZRehpSu4F
+    address: 'MHEj9d9Vt2WKZmdddfv3kLX1UZRehpSu4F'
 
