@@ -14,5 +14,5 @@ The "token chicken" is licensed under the WTFPL license.
 
 ## Contact
 
-Made for fun by [Daniel Doubrovkine](https://twitter.com/dblockdotorg).
+Made for charity by [@dblockdotorg](https://twitter.com/dblockdotorg).
 
