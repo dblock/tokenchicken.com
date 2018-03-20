@@ -1,6 +1,10 @@
-# Big Fish Fly
+# Token Chicken
 
-Head to [tokenchicken.com](http://tokenchicken.com).
+Head to [tokenchicken.com](http://tokenchicken.com). A charity project to [raise funds for TeamForKids](https://www.runwithtfk.org/Profile/PublicPage/61018) for the TCS New York Marathon 2018.
+
+## Contribute a Chicken
+
+See [CONTRIBUTING](CONTRIBUTING.md).
 
 ## Copyright & License
 
