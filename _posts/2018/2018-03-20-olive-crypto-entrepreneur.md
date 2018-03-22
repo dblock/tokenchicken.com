@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Olive Allen"
 date: "2018-03-20"
 ---
